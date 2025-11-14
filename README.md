@@ -1,4 +1,3 @@
-Strong Password Checker
 This repository contains a Strong Password Checker implemented in C++ that evaluates and ensures the strength of a given password based on specific security criteria. The program efficiently validates password strength while optimizing for various constraints, such as minimum length, character diversity, and repetitive sequences.
 
 Features
